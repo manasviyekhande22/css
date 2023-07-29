@@ -1,0 +1,50 @@
+body{
+  background-color:#f9f9f9;
+  font-family:Arial,sans-serif;
+  margin:o;
+  padding:o;
+}
+
+header{
+  background-color:#333;
+   color:#ffffff;
+   padding:20px;
+   text-align:center;
+}
+
+header h1{
+  margin:o; >
+}]
+
+main{
+  padding:20px;
+}
+
+.bike-list{
+  display:grid;
+  grid-template-columns:
+  repeat(auto-fill,minmax(20px,
+  1fr));
+    <grid-gap:20px>
+}
+
+.bike-card{
+  border:100px solid#ccc;
+  padding: 100px;px;
+}
+
+.rental-form input,<div class="rental-form
+select{
+  width:10%;
+  padding:10px;
+  border:1px solid#ccc;
+  border-radius:4px;
+}
+
+footer{
+  background-color:#333;
+    color:#ffffff;
+    padding:10px;
+    text-align:center;
+}
+
